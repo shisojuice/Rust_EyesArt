@@ -1,0 +1,23 @@
+body {
+  font-family: monospace;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+#mainImg {
+  width: 160px;
+  height: 160px;
+}
+#eyes {
+  display: flex;
+  flex-direction: row;
+}
+#cursor {
+  display: flex;
+  flex-direction: row;
+}
+button {
+  height: 40px;
+  width: 60px;
+  font-size: 20px;
+}
